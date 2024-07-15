@@ -75,12 +75,6 @@ main {
 }
 
 footer {
-    background-color: #44475a;
     color: #f8f8f2;
-    text-align: center;
-    padding: 10px 0;
-    width: 100%;
-    position: fixed;
-    bottom: 0;
 }
 
