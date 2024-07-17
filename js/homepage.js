@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             title: "The Pit of Darkness",
             description: "Seventeen-year-old Oliver Cadwell is on the most dangerous quest of his life. With the help of his best friends, a son of Athena and a daughter of Aphrodite, Oliver must journey across the United States to save the world. Along the way, he must face a host.",
-            cover: "https://github.com/DemonKingSwarn/book/raw/master/images/banner.webp",
-            link: "/the-pit-of-darkness"
+            cover: "/book/images/banner.webp",
+            link: "/book/the-pit-of-darkness"
         },
         // Add more books here
     ];
